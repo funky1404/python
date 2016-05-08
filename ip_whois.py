@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# IP WHOIS SEARCH BY JINI(2014.7.23) yj1004. chang@samsung.com
+# IP WHOIS SEARCH BY JINI(2014.7.23)
 # IPWhois module install Before
 # python ./ipwhois.py > 파일명.txt
 
